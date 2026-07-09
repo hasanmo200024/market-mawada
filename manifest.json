@@ -1,0 +1,17 @@
+{
+  "name": "ماركت المودة",
+  "short_name": "ماركت المودة",
+  "description": "نظام إدارة محل ماركت المودة",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F6F0",
+  "theme_color": "#1E7B34",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
